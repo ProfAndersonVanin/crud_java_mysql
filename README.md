@@ -4,5 +4,10 @@ Neste repositório serão incluídas todas as etapas para a criação de um sist
 DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
 ![image](https://user-images.githubusercontent.com/53703505/126907238-5e303c94-c537-4061-ad46-25a3a6d28c94.png)
 
+Exemplo de inclusão de uma nova imagem no arquivo Readme.
+![image](https://user-images.githubusercontent.com/53703505/127166096-5d26d4ca-bf39-4e1d-b69c-8a04d2eb0e82.png)
+
+
+
 
 Prof. Anderson Vanin - profandersonvanin@gmail.com
