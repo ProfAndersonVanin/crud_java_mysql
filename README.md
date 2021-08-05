@@ -6,7 +6,7 @@ DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
 
 Exemplo de inclusão de uma nova imagem no arquivo Readme.
 
-![image](https://user-images.githubusercontent.com/53703505/127194569-362af43e-7b83-429e-a67d-87b2c23cf4db.png)
+
 
 
 
