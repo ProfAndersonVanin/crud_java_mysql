@@ -22,6 +22,7 @@ Atividades desenvolvidas no 3º Bimestre
 # ****crud de usuarios**** 
 # ==> 2ª ENTREGA NO GITHUB
 - Aula 11 - 23/09 - Criação da TelaClientes e Configuração do Botão Inserir
+- Aula 12 - 28/09 - Pesquisa avançada na tela de Clientes
 
 
 
