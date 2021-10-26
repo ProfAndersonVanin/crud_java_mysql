@@ -27,24 +27,24 @@ Atividades desenvolvidas no 3º Bimestre
 
 #********************************************************
 # ==> INICIO DO 4º BIMESTRE <==
-- Aula 13 - 21/10 - Inicio do 4 Bim - Instruções
-- Aula 14 - 26/10 - UPDATE tabela Clientes (20)
-- Aula 15 - 28/10 - DELETE tabela Clientes
-- Aula 16 - 04/11 - JTable (cabeçalho, bloqueio de edição e limpeza dos campos)
-- Aula 17 - 09/11 - Formulario de Serviços
-- Aula 18 - 11/11 - Formulario de Serviços
-- Aula 19 - 16/11 - Vinculando um cliente a Ordem de Serviço
-- Aula 20 - 18/11 - Emitir OS
+            21/10 - Inicio do 4 Bim - Instruções
+- Aula 13 - 26/10 - UPDATE tabela Clientes (20)
+- Aula 14 - 28/10 - DELETE tabela Clientes
+- Aula 15 - 04/11 - JTable (cabeçalho, bloqueio de edição e limpeza dos campos)
+- Aula 16 - 09/11 - Formulario de Serviços
+- Aula 17 - 11/11 - Formulario de Serviços
+- Aula 18 - 16/11 - Vinculando um cliente a Ordem de Serviço
+- Aula 19 - 18/11 - Emitir OS
 # ==> 1ª Entrega do 4 bim -> 18/11
-- Aula 21 - 23/11 - Emitir OS (insert)
-- Aula 22 - 25/11 - Pesquisar OS (select)
-- Aula 23 - 30/11 - Alterar OS (update)
-- Aula 24 - 02/12 - Excluir OS (delete)
-- Aula 25 - 07/12 - Melhorando a experiência do usuário na tela de gestão de serviços
-- Aula 26 - 09/12 - Emissão de Relatórios com iReport e Jasper
-- Aula 27 - 14/12 - Imprimir relatório de OS
+- Aula 20 - 23/11 - Emitir OS (insert)
+- Aula 21 - 25/11 - Pesquisar OS (select)
+- Aula 22 - 30/11 - Alterar OS (update)
+- Aula 23 - 02/12 - Excluir OS (delete)
+- Aula 24 - 07/12 - Melhorando a experiência do usuário na tela de gestão de serviços
+- Aula 25 - 09/12 - Emissão de Relatórios com iReport e Jasper
+- Aula 26 - 14/12 - Imprimir relatório de OS
 # ==> 2ª Entrega do 4 bim -> 14/12
-- Aula 28 - 16/12 - Fechamento das Notas
+- Aula 27 - 16/12 - Fechamento das Notas
 
 # AS ENTREGAS DO 4 BIM PODEM SER FEITAS INDIVIDUALMENTE OU EM DUPLAS. LEMREM-SE DE MENCIONAR SEMPRE OS INTEGRANTES DAS DUPLAS
 # FAÇAM AS ENTREGAS DAS ATIVIDADES PONTUALMENTE. EVITE TRANSTORNOS NOS LANÇAMENTOS DAS NOTAS, LEMREM-SE QUE O PROFESSOR TAMBÉM TEM PRAZOS DE ENTREGA!
