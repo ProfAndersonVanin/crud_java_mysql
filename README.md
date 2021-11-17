@@ -38,7 +38,7 @@ Atividades desenvolvidas no 3º Bimestre
 # ==> 1ª Entrega do 4 bim -> 18/11
 - Aula 20 - 23/11 - Alterar OS (update)
 - Aula 21 - 25/11 - Excluir OS (delete)
-- Aula 22 - 30/11 - Melhorando a experiência do usuário na tela de gestão de serviços
+- Aula 22 - 30/11 - Melhorando a experiência do usuário na tela de gestão de serviços (Vários Ajustes, pode demorar mais de uma aula!)
 - Aula 23 - 02/12 - Emissão de Relatórios com iReport e Jasper
 - Aula 24 - 07/12 - Imprimir relatório de OS
 - Aula 25 - 09/12 - (Previsão apresentação de TCC's)
