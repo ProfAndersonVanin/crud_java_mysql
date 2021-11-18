@@ -34,16 +34,16 @@ Atividades desenvolvidas no 3º Bimestre
 - Aula 16 - 09/11 - Formulario de Serviços
 - Aula 17 - 11/11 - Formulario de Serviços
 - Aula 18 - 16/11 - Vinculando um cliente a Ordem de Serviço
-- Aula 19 - 18/11 - Emitir OS (insert) / Pesquisar OS (select)
-# ==> 1ª Entrega do 4 bim -> 18/11
-- Aula 20 - 23/11 - Alterar OS (update)
-- Aula 21 - 25/11 - Excluir OS (delete)
+- Aula 19 - 18/11 - AULA CEDIDA PARA TREINO DE APRESENTAÇÕES DOS TCC'S
+- Aula 20 - 23/11 - Emitir OS (insert) / Pesquisar OS (select)
+- # ==> 2ª Entrega do 4 bim -> 20/11
+- Aula 21 - 25/11 - Alterar OS (update) / Excluir OS (delete)
 - Aula 22 - 30/11 - Melhorando a experiência do usuário na tela de gestão de serviços (Vários Ajustes, pode demorar mais de uma aula!)
 - Aula 23 - 02/12 - Emissão de Relatórios com iReport e Jasper
 - Aula 24 - 07/12 - Imprimir relatório de OS
 - Aula 25 - 09/12 - (Previsão apresentação de TCC's)
 - Aula 26 - 14/12 - (Previsão apresentação de TCC's)
-# ==> 2ª Entrega do 4 bim -> 14/12
+# ==> 3ª Entrega do 4 bim -> 14/12
 - Aula 27 - 16/12 - Fechamento das Notas
 
 # AS ENTREGAS DO 4 BIM PODEM SER FEITAS INDIVIDUALMENTE OU EM DUPLAS. LEMREM-SE DE MENCIONAR SEMPRE OS INTEGRANTES DAS DUPLAS
