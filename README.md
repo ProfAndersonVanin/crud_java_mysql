@@ -35,14 +35,14 @@ Atividades desenvolvidas no 3º Bimestre
 - Aula 17 - 11/11 - Formulario de Serviços
 - Aula 18 - 16/11 - Vinculando um cliente a Ordem de Serviço
 - Aula 19 - 18/11 - AULA CEDIDA PARA TREINO DE APRESENTAÇÕES DOS TCC'S
-- Aula 20 - 23/11 - Emitir OS (insert) / Pesquisar OS (select)
-- # ==> 2ª Entrega do 4 bim -> 20/11
-- Aula 21 - 25/11 - Alterar OS (update) / Excluir OS (delete)
-- Aula 22 - 30/11 - Melhorando a experiência do usuário na tela de gestão de serviços (Vários Ajustes, pode demorar mais de uma aula!)
-- Aula 23 - 02/12 - Emissão de Relatórios com iReport e Jasper
-- Aula 24 - 07/12 - Imprimir relatório de OS
-- Aula 25 - 09/12 - (Previsão apresentação de TCC's)
-- Aula 26 - 14/12 - (Previsão apresentação de TCC's)
+- Aula 20 - 23/11 - PROVA SAEB 
+- Aula 21 - 25/11 - Emitir OS (insert) / Pesquisar OS (select)
+- - # ==> 2ª Entrega do 4 bim -> 25/11
+- Aula 22 - 30/11 - Alterar OS (update) / Excluir OS (delete)
+- Aula 23 - 02/12 - APRESENTAÇÃO DOS TRABALHOS DE TCC'S (08H AS 12H)
+- Aula 24 - 07/12 - Melhorando a experiência do usuário na tela de gestão de serviços (Vários Ajustes, pode demorar mais de uma aula!)
+- Aula 25 - 09/12 - PROVA SARESP
+- Aula 26 - 14/12 - Emissão de Relatórios com iReport e Jasper / Imprimir relatório de OS
 # ==> 3ª Entrega do 4 bim -> 14/12
 - Aula 27 - 16/12 - Fechamento das Notas
 
