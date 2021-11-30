@@ -4,6 +4,15 @@ Neste repositório serão incluídas todas as etapas para a criação de um sist
 DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
 ![image](https://user-images.githubusercontent.com/53703505/126907238-5e303c94-c537-4061-ad46-25a3a6d28c94.png)
 
+#TELAS CRIADAS NO SISTEMA CRUD
+==> TelaLogin
+![image](https://user-images.githubusercontent.com/53703505/144060780-ee4b4f0e-716a-43ae-9924-e16863812746.png)
+
+==> TelaPrincipal
+![image](https://user-images.githubusercontent.com/53703505/144060873-63189770-f35e-42c1-9aed-97772ce295be.png)
+
+
+
 Exemplo de inclusão de uma nova imagem no arquivo Readme.
 
 # ==> INICIO DO 3º BIMESTRE <==
